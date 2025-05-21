@@ -26,7 +26,7 @@ cd dsa_sparse_matrix
 ```
 
 ## 📁 Project Structure
-
+```
 dsa_sparse_matrix/
 │
 ├── sample_inputs/ # Folder with input matrix files
@@ -41,6 +41,7 @@ dsa_sparse_matrix/
 │ └── SparseMatrix.js # Main program file (fully interactive)
 │
 └── README.md # This documentation
+```
 
 ## 🛠 Requirements
 
